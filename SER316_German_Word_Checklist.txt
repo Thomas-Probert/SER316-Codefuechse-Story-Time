@@ -1,0 +1,34 @@
+SER 316 — STORY TIME: GERMAN WORD CHECKLIST
+=========================================
+Mark [x] as each word is used in the team story.
+Goal: Use at least 10 different words from this list.
+
+[ ] Ohrwurm              — catchy tune / earworm
+[ ] Pantoffelheld        — henpecked husband (literally, slipper hero)
+[ ] Sauerkraut           — fermented cabbage / sauerkraut
+[ ] Hauptstrasse         — main street
+[ ] Broetchen            — bread roll
+[ ] Klimaanlage          — air conditioning / AC unit
+[ ] Rammstein            — Rammstein (German rock band; literally ram stone)
+[ ] Porsche              — Porsche (car brand)
+[ ] hundemuede           — dog-tired / exhausted
+[ ] Biergarten           — beer garden
+[ ] Drahtesel            — bicycle (literally, wire donkey)
+[ ] Dirndel              — traditional Alpine-style dress
+[ ] Staubsauger          — vacuum cleaner
+[ ] wettbewerbsfaehig    — competitive / able to compete
+[ ] Mehlhase             — flour hare (literal; unusual term/name)
+[ ] Gebaeck              — pastries / baked goods
+[ ] Baeckerei            — bakery
+[ ] Hund                 — dog
+[ ] Doener               — döner kebab
+[ ] Apfelkuchen          — apple cake
+[ ] Handschuhe           — gloves
+
+Used: _____ / 21     Minimum target: 10
+
+NOTES
+-----
+Each story sentence must include at least one word from the list.
+Add sentences at the end of story.txt, using separate branches and commits.
+Spellings above match the assignment handout.

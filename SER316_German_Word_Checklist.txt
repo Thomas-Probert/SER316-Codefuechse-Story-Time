@@ -22,10 +22,10 @@ Goal: Use at least 10 different words from this list.
 [ ] Baeckerei            — bakery
 [x] Hund                 — dog
 [ ] Doener               — döner kebab
-[ ] Apfelkuchen          — apple cake
+[X] Apfelkuchen          — apple cake
 [ ] Handschuhe           — gloves
 
-Used: 6 / 21     Minimum target: 10
+Used: 9 / 21     Minimum target: 10
 
 NOTES
 -----

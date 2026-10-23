@@ -16,7 +16,7 @@ Goal: Use at least 10 different words from this list.
 [ ] Drahtesel            — bicycle (literally, wire donkey)
 [ ] Dirndel              — traditional Alpine-style dress
 [ ] Staubsauger          — vacuum cleaner
-[ ] wettbewerbsfaehig    — competitive / able to compete
+[x] wettbewerbsfaehig    — competitive / able to compete
 [ ] Mehlhase             — flour hare (literal; unusual term/name)
 [ ] Gebaeck              — pastries / baked goods
 [ ] Baeckerei            — bakery

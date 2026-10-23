@@ -12,5 +12,4 @@
 
 |ChristinaThompson(cthomp79)|https://github.com/dboland2/knobelbaeren\_funny\_story.git|
 
-
-
+| Emmie Auffant | https://github.com/sncampuz/ser316-TeamBuilding-Wolkenblastler |

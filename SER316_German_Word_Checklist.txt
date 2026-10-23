@@ -13,9 +13,9 @@ Goal: Use at least 10 different words from this list.
 [ ] Porsche              — Porsche (car brand)
 [ ] hundemuede           — dog-tired / exhausted
 [x] Biergarten           — beer garden
-[ ] Drahtesel            — bicycle (literally, wire donkey)
+[x] Drahtesel            — bicycle (literally, wire donkey)
 [ ] Dirndel              — traditional Alpine-style dress
-[ ] Staubsauger          — vacuum cleaner
+[x] Staubsauger          — vacuum cleaner
 [x] wettbewerbsfaehig    — competitive / able to compete
 [ ] Mehlhase             — flour hare (literal; unusual term/name)
 [ ] Gebaeck              — pastries / baked goods
@@ -25,7 +25,7 @@ Goal: Use at least 10 different words from this list.
 [ ] Apfelkuchen          — apple cake
 [ ] Handschuhe           — gloves
 
-Used: _____ / 21     Minimum target: 10
+Used: 6 / 21     Minimum target: 10
 
 NOTES
 -----

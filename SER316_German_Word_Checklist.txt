@@ -5,12 +5,12 @@ Goal: Use at least 10 different words from this list.
 
 [ ] Ohrwurm              — catchy tune / earworm
 [ ] Pantoffelheld        — henpecked husband (literally, slipper hero)
-[ ] Sauerkraut           — fermented cabbage / sauerkraut
+[x] Sauerkraut           — fermented cabbage / sauerkraut
 [x] Hauptstrasse         — main street
-[ ] Broetchen            — bread roll
+[x] Broetchen            — bread roll
 [ ] Klimaanlage          — air conditioning / AC unit
 [ ] Rammstein            — Rammstein (German rock band; literally ram stone)
-[ ] Porsche              — Porsche (car brand)
+[x] Porsche              — Porsche (car brand)
 [ ] hundemuede           — dog-tired / exhausted
 [x] Biergarten           — beer garden
 [x] Drahtesel            — bicycle (literally, wire donkey)
@@ -19,10 +19,10 @@ Goal: Use at least 10 different words from this list.
 [x] wettbewerbsfaehig    — competitive / able to compete
 [ ] Mehlhase             — flour hare (literal; unusual term/name)
 [ ] Gebaeck              — pastries / baked goods
-[ ] Baeckerei            — bakery
+[x] Baeckerei            — bakery
 [x] Hund                 — dog
 [ ] Doener               — döner kebab
-[ ] Apfelkuchen          — apple cake
+[x] Apfelkuchen          — apple cake
 [ ] Handschuhe           — gloves
 
 Used: 6 / 21     Minimum target: 10

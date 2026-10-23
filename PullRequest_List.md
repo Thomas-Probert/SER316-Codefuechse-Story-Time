@@ -10,3 +10,7 @@
 
 | ccutclif | https://github.com/aabachm2/story-time/pull/6 |
 
+|ChristinaThompson(cthomp79)|https://github.com/dboland2/knobelbaeren\_funny\_story.git|
+
+
+
